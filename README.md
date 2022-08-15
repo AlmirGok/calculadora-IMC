@@ -20,4 +20,8 @@
 
 <hr>
 
+# 💻 Link de acesso
+
+> - Teste agora https://calculadora-imc01.netlify.app
+
 ### Desenvolvido por Almir 🤖

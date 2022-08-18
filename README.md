@@ -14,14 +14,14 @@
 
 <hr>
 
-# 💻 Funcionalidades
+# 🔧 Funcionalidades
 
 > - Calcular seu IMC 
 
 <hr>
 
-# 💻 Link de acesso
+# 🌐 Link de acesso
 
 > - Teste agora https://calculadora-imc01.netlify.app
 
-### Desenvolvido por Almir 🤖
+### Desenvolvido por Almir 👨‍🚀
